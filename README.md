@@ -9,5 +9,5 @@ script that uses OLE automation and opens the xls/clsx, and does a "File-> Save 
 
 
 See also:
-1)  Example from POI site:  http://svn.apache.org/repos/asf/poi/trunk/src/examples/src/org/apache/poi/ss/examples/ToCSV.java
+1)  http://svn.apache.org/repos/asf/poi/trunk/src/examples/src/org/apache/poi/ss/examples/ToCSV.java (example from POI Site)
 2)  https://gist.github.com/991207
