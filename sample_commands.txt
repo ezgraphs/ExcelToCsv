@@ -1,0 +1,4 @@
+mvn exec:java -Dexec.args="spreadsheets spreadsheets"
+mvn exec:java -Dexec.args="spreadsheets/Attachments_2012_05_11 spreadsheets/Attachments_2012_05_11"
+mvn -X compile to see the classpath in use.
+java -cp target/file-conversion-1.0-SNAPSHOT.jar com.ow.util.ExcelToCsv spreadsheets spreadsheets
